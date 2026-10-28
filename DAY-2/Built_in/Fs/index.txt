@@ -1,0 +1,8 @@
+What is Fs(File System)
+fs is a module of node js where we can intect with our file system with our file system with the help of it, We can create Read upadte Delete.
+because it is a build in module so there is no need to install by npm pacakge.
+
+we create file in node js in two ways
+1.)Asynchrounous
+2.)Synchronous
+
